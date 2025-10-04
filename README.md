@@ -8,6 +8,9 @@ The focus of this challenge is learning how to:
 - Work with **JSX** syntax
 - Render a list of data using the map() method
 
+![Project Screenshot](./profile%20v2.png)
+
+
 ## Run the project
 
 ```bash
